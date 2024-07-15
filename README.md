@@ -11,8 +11,6 @@ User-Friendly Interface: Easy to use and navigate.
 🛠️ Installation
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/your-username/weather-app.git
 cd weather-app
 Open index.html in your browser.
